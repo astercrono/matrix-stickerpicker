@@ -1,9 +1,6 @@
 {
   "packs": [
-    "gura.json",
-    "lain.json",
-    "yotsuba.json",
     "cronomotes.json"
   ],
-  "homeserver_url": "https://matrix.cronolabs.net"
+  "homeserver_url": "https://matrix-client.matrix.org"
 }
